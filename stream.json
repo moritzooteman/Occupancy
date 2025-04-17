@@ -1,3 +1,7 @@
 {
-  "Occupancy": 12
+  "Occupancy": {
+    "value": 15,
+    "unit": "people",
+    "timestamp": "2025-04-17T20:30:00Z"
   }
+}
